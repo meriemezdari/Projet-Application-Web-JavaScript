@@ -4,7 +4,7 @@
 
 **Projet réalisé en collaboration avec :** Nosayba EL JEBLI
 
-Vous pouvez tester l'application en ligne ici : [Live Demo](https://tonpseudo.github.io/nom-du-depot/)
+Vous pouvez tester l'application en ligne ici : [Gestion de livres](https://meriemezdari.github.io/Projet-Application-Web-JavaScript/)
 
 ---
 
